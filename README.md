@@ -1,4 +1,4 @@
-
+# TeamFlow AI CLI
 The CLI interprets natural language prompting, fetches real-time Zoho Projects data (RAG), outputs structured JSON or tables, and calls functions that invoke Zoho APIs to automate actions.
 
 ## Architecture Overview
